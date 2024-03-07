@@ -1,5 +1,5 @@
 # projects
-Data science does not lie.
+Data  does not lie.
 # Salary Forecasting Based on Year of Experience
 
 ## Description
